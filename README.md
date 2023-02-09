@@ -30,3 +30,4 @@ Repository contains a quality README file with description, screenshot, and link
 
 Screenshot of deployed application: (https://courses.bootcampspot.com/courses/3901/files/2491369/preview)
 
+Link to deployed application: https://jackkkendrick.github.io/Horiseon/
